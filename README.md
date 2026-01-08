@@ -25,7 +25,7 @@
 
 ---
 
-<div align="center">
+<div>
   <h2>🚀 About Me</h2>
 </div>
 
@@ -51,7 +51,7 @@ const bugsm = {
 
 ---
 
-<div align="center">
+<div>
   <h2>🛠️ Tech Stack</h2>
 </div>
 
@@ -74,7 +74,7 @@ const bugsm = {
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
-<div align="center">
+<div>
 <h2>📊 GitHub Stats</h2>
 </div>
 
@@ -87,7 +87,7 @@ const bugsm = {
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bugsm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages"/>
 </p>
 
-<div align="center">
+<div>
 <h2>🏆 GitHub Trophies</h2>
 </div>
 
@@ -95,15 +95,15 @@ const bugsm = {
 <img src="https://github-profile-trophy.vercel.app/?username=bugsm&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5" alt="GitHub Trophies"/>
 </p>
 
-<div align="center">
+<div>
 <h2>🐍 Contribution</h2>
 </div>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/bugsm/bugsm/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bugsm&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph"/>
 </p>
 
-<div align="center">
+<div>
 <h2>💡 Random Dev Quote</h2>
 </div>
 
@@ -111,7 +111,7 @@ const bugsm = {
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </p>
 
-<div align="center">
+<div>
 <h2>🤝 Let's Connect!</h2>
 </div>
 
