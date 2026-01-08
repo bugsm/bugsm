@@ -75,13 +75,15 @@ const bugsm = {
 ## 📊 GitHub Stats
 
 <p align="center">
+  <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bugsm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-streak-stats. herokuapp.com/?user=bugsm&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+  <img width="48%" src="https://github-readme-streak-stats.vercel.app/?user=bugsm&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bugsm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages"/>
 </p>
+
 
 ---
 
