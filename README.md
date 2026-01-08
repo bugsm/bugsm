@@ -95,10 +95,10 @@ const bugsm = {
 
 ---
 
-## 📈 Contribution Graph
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bugsm&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://raw.githubusercontent.com/bugsm/bugsm/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
 
 ---
