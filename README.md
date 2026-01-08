@@ -97,11 +97,8 @@ const bugsm = {
 
 <div>
 <h2>🐍 Contribution</h2>
+  <img src="https://raw.githubusercontent.com/anndaanhr/anndaanhr/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 </div>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bugsm&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph"/>
-</p>
 
 <div>
 <h2>💡 Random Dev Quote</h2>
