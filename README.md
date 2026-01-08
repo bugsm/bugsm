@@ -79,20 +79,21 @@ const bugsm = {
 </div>
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=bugsm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bugsm&theme=radical&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bugsm&theme=tokyonight" alt="Profile Details"/>
 </p>
 
 <p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bugsm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bugsm&theme=tokyonight" alt="Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bugsm&theme=tokyonight&utcOffset=7" alt="Productive Time"/>
 </p>
 
-<div>
-<h2>🏆 GitHub Trophies</h2>
-</div>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bugsm&theme=tokyonight" alt="Top Languages by Repo"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bugsm&theme=tokyonight" alt="Top Languages by Commit"/>
+</p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=bugsm&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5" alt="GitHub Trophies"/>
+<img src="https://streak-stats.demolab.com?user=bugsm&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak"/>
 </p>
 
 <div>
