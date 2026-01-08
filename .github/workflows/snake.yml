@@ -1,21 +1,35 @@
-name: Generate Snake
+name: Generate Snake Animation
 
 on:
   schedule:
+    # Berjalan setiap 6 jam
     - cron: "0 */6 * * *"
+  # Memungkinkan untuk dijalankan manual dari tab Actions
   workflow_dispatch:
 
 jobs:
   build:
+    # ---------------------------------------------------------------------------------- #
+    # BARIS INI ADALAH KUNCI PERBAIKANNYA: Memberikan izin untuk menulis ke repository     #
+    permissions:                                                                         #
+      contents: write                                                                    #
+    # ---------------------------------------------------------------------------------- #
+    
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
+      # Menggunakan versi action yang lebih baru dan stabil
+      - uses: actions/checkout@v4
+
       - uses: Platane/snk@v3
+        id: snake-gif
         with:
           github_user_name: bugsm
-          outputs: dist/github-contribution-grid-snake-dark.svg
+          # Membuat 2 file output: satu untuk mode terang, satu untuk mode gelap
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      # Menggunakan versi action yang lebih baru dan stabil
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
