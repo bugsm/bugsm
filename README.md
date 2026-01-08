@@ -80,7 +80,7 @@ const bugsm = {
 
 <p align="center">
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bugsm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats"/>
-<img width="48%" src="https://github-readme-streak-stats.vercel.app/?user=bugsm&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bugsm&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
