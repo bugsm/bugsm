@@ -128,7 +128,7 @@ const bugsm = {
 <div align="center">
   
   <!-- Footer Banner -->
-  <img src="https://capsule-render.vercel.app/api? type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
   
   ### ⭐ Thanks for visiting!  Let's build something amazing together! ⭐
   
