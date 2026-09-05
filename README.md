@@ -31,7 +31,7 @@
 
 ```javascript
 const bugsm = {
-  location: "🌍 Indonesia",
+  location: "🇮🇩 Indonesia",
   currentFocus: "Building awesome projects",
   learning: ["New Technologies", "Best Practices"],
   hobbies: ["Coding", "Gaming", "Reading"],
